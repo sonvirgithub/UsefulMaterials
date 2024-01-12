@@ -1,0 +1,23 @@
+.arrows-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-between; 
+  padding: 0 3vw;
+}
+
+.right-arr {
+  margin-left: 20px;
+}
+
+.arrow-icon {
+  width: 9.4vw;
+}
+
+#arrow-left:hover{
+  content: url("../../images//arrow-left-bold.svg");
+}
+
+
+#arrow-right:hover{
+  content: url("../../images//arrow-right-bold.svg");
+}

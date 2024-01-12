@@ -1,0 +1,76 @@
+
+
+.card-container {
+  width: 16vw;
+}
+
+
+.img-container img {
+  width: 100%;
+  object-fit: cover;
+}
+
+.image3{
+width: 48vw !important;
+}
+
+.image1 {
+  width: 25vw !important;
+}
+
+
+.img1 {
+  border-radius:  0 17vw 0 17vw;
+  height: 25vw;
+}
+.img2 {
+  border-radius: 17vw 0 17vw 0;
+  height: 25vw;
+}
+.img3 {
+  border-radius: 31.2vw;
+  height: 25vw !important;
+}
+.img4 {
+  border-radius: 31.2vw;
+  height: 25vw !important;
+}
+.img5 {
+  border-radius: 6.2vw 0 6.2vw 0;
+  height: 25vw !important;
+}
+
+
+
+.title {
+  font-size: 2vw;
+  color: #525C7A;
+  margin-top: 2vw;
+  font-family: Raleway-SemiBold;
+}
+
+
+
+.date {
+  font-size: 1.2vw;
+  color: #A2ACC7;
+  margin-top: 1vw;
+  font-family: Raleway-Regular;
+}
+
+.title-and-date {
+  padding-left: 0.5vw;
+}
+.title-class1 {
+  width: 20vw;
+}
+
+.title-class3 {
+  width: 45vw;
+}
+
+.title-class5 {
+  width: 25vw;
+}
+
+

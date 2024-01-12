@@ -1,0 +1,24 @@
+.list-items-container {
+  overflow-x: scroll;
+  display: flex;
+  overflow-y: hidden;
+}
+
+.list-container {
+  margin-top: 2vw;
+  
+}
+
+.list-items-container::-webkit-scrollbar {
+  display: none;
+}
+
+.list-items-container {
+  -ms-overflow-style: none; 
+  scrollbar-width: none; 
+}
+
+.list-arrows-container {
+  margin-top: 1vw;
+}
+

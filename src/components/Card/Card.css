@@ -4,6 +4,9 @@
   width: 16vw;
 }
 
+.card-container:hover #titleid {
+  color: #4FBA67 !important;
+}
 
 .img-container img {
   width: 100%;

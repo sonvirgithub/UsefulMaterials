@@ -5,7 +5,7 @@
 }
 
 .list-container {
-  margin-top: 2vw;
+  margin-top: 1.5vw;
   
 }
 
@@ -19,6 +19,6 @@
 }
 
 .list-arrows-container {
-  /* margin-top: 1vw; */
+  padding-top: 0.5vw;
 }
 
